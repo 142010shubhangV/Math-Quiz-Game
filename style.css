@@ -1,0 +1,50 @@
+#body
+{
+    background: lightblue;
+}
+#login_div1
+{
+    margin-left: 650px;
+    margin-bottom: 50px;
+    border-radius: 20px;
+}
+#login_div2
+{
+    margin-left: 650px;
+    border-radius: 20px;
+}
+hr{
+    color: blue;
+    height: 15px;
+    width: 30%;
+    margin: 10px 0  1px 0;
+}
+#img
+{
+    margin-left: 150px;
+    width: 100%;
+    position: fixed;
+}
+img
+{
+    border-radius: 20px;
+}
+#title
+{
+    margin-left: 55px;
+    color: #9400D3;
+}
+#heading
+{
+    color: blue;
+    font-weight: bolder;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#login
+{
+    color: white;
+    font-weight: bolder;
+    font-size: larger;
+    margin-left: 70px;
+    width: 30%;
+}
